@@ -1,5 +1,4 @@
 # AWS--VPC-peering
-# AWS VPC Peering 
 
 Author: Mohammed Sumair Ahmed
 AWS Region: US East (N. Virginia) — us-east-1
